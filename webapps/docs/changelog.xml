@@ -153,6 +153,10 @@
         (michaelo)
       </fix>
       <fix>
+        Fix handling of <code>QSA</code> and <code>QSD</code> flags in
+        <code>RewriteValve</code>. (markt)
+      </fix>
+      <fix>
         Make <code>WebdavServlet</code> properly return the <code>Allow</code>
         header when deletion of a resource is not allowed. (michaelo)
       </fix>
